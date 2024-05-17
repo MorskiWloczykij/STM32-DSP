@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\ep18810\Documents\Prywatne\Altium\GIT\STM32_DSP\STM32_DSP.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=stm32_dsp-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=stm32_dsp-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=stm32_dsp-rectholes.txt|DrillLayers=gtl,gbl
